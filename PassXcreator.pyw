@@ -1,7 +1,3 @@
-# créer la fenetre por créer un mot de passe aléatoire
-# enlever le cryptage
-# enlever la platforme
-#la symphonie du nouveau monde
 
 from tkinter import *
 import random
